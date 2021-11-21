@@ -1,0 +1,14 @@
+The odd-degree vertices in G: O = { }
+
+Results of Floyd-Warshall on O:
+     | 
+--- -+-
+
+The greedy perfect matching in O: M = { }
+
+The Euler circuit in G with virtual edges is:
+	(1,4)
+	(4,2)
+	(2,5)
+	(5,3)
+	(3,1)
