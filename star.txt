@@ -1,8 +1,6 @@
 The odd-degree vertices in G: O = { }
 
 Results of Floyd-Warshall on O:
-     | 
---- -+-
 
 The greedy perfect matching in O: M = { }
 
